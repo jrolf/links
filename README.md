@@ -1,5 +1,9 @@
-# links
+# Awesome Links
 My Links To Remember
+(This Repo is always in development!)
 
-My links.
+## Link Categories:
+ML - Machine Learning
+AI - Artificial Inteligence
+NS - Neuroscience
 
